@@ -1,5 +1,4 @@
 #include <SFML/Graphics.hpp>
-#include <iostream>
 
 int width = 1280, height = 720;
 short pointCount = 125, radius = 300;
